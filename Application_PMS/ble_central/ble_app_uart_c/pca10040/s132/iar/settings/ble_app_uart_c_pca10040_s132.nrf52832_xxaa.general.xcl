@@ -1,0 +1,13 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2_2\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2_2\arm\bin\armjlink2.dll" 
+
+"C:\Users\Atapy-Hardware04\Desktop\nRF52_DataCentre -GATT\Application_PMS\ble_central\ble_app_uart_c\pca10040\s132\iar\_build\ble_app_uart_c_pca10040_s132.out" 
+
+--plugin="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2_2\arm\bin\armbat.dll" 
+
+--device_macro="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2_2\arm\config\debugger\NordicSemi\nRF52.dmac" 
+
+
+
+
